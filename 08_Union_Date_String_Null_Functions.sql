@@ -1,6 +1,6 @@
 
 -- ShopSphere: Retail Business Intelligence
--- 08. UNION, Date, String and NULL Functions
+-- 08. Union_Date_String_Null_Functions.sql
 
 
 -- 43. Combine buyers from Kochi and Bengaluru
