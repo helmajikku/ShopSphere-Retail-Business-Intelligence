@@ -152,8 +152,6 @@ ShopSphere brings together SQL skills that are useful in entry-level data analys
 
 ShopSphere is part of my practical learning journey in data analytics. It reflects my practice in using SQL to structure data, investigate business questions, and present results in a way that can be understood by a business audience.
 
-I am building on my professional experience in management, administration, coordination, and stakeholder communication while developing hands-on analytical skills.
-
 ---
 
 **Project:** ShopSphere — Retail Business Intelligence  
